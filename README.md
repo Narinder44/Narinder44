@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+🏫 I'm a sophomore at Hunter College pursuing a major in Computer Science.
+
+🍎 Learning full-stack development 
+
+📧 Feel free to email me - narinders54321@gmail.com
 
 💻 Tech Stack
-
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,py,nodejs,supabase,figma,ps)](https://skillicons.dev)
 
