@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,py,nodejs,supabase,figma,ps)](https://skillicons.dev)
 
 
